@@ -23,7 +23,7 @@ Example:
 
 1. Remove the temporary files
 
-sathya@sathya-Lenovo-G580:~/Dropbox/CR_src/D-FPFC$ ./rem
+milan@milan-Inspiron-N5110:~/Dropbox/CR_src/D-FPFC$ ./rem
 rm: cannot remove ‘*.gch’: No such file or directory
 rm: cannot remove ‘*.out’: No such file or directory
 rm: cannot remove ‘10*’: No such file or directory
