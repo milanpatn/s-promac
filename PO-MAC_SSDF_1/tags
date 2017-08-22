@@ -1,0 +1,156 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AQUIRE_TIME	channel.h	16;"	d
+BACKOFF_TIME	channel.h	17;"	d
+Exponential	node.cpp	/^double Exponential(double mean)$/;"	f
+HIST_SIZEE	channel.h	23;"	d
+NUM_CHANNELS	channel.h	18;"	d
+NUM_PRIMARY_USERS	channel.h	19;"	d
+NUM_SEC_USERS	channel.h	20;"	d
+Opttxpwr	node.h	/^		 float Opttxpwr;\/\/-----------------$/;"	m	class:node
+PRED_RANGE	channel.h	24;"	d
+PWR_THRESHOLD	channel.h	22;"	d
+QMutex	MS-FPFC.cpp	/^pthread_mutex_t QMutex;$/;"	v
+QUEUE_H	queue.h	9;"	d
+Qnode	queue.h	/^struct Qnode$/;"	s
+Rxdist	node.h	/^		 float Rxdist;\/\/------------$/;"	m	class:node
+Rxpwr	node.h	/^		 float Rxpwr;\/\/--------------------$/;"	m	class:node
+SENSING_TIME	channel.h	15;"	d
+SIM_TIME	channel.h	21;"	d
+Txpwr	node.h	/^		 float Txpwr;\/\/-----------------$/;"	m	class:node
+Txtime	node.h	/^		 double Txtime;$/;"	m	class:node
+busyFlag	channel.h	/^		int busyFlag;$/;"	m	class:channel
+busyFlag	node.h	/^		 int busyFlag;$/;"	m	class:node
+busyPeriod	channel.h	/^		double busyPeriod;$/;"	m	class:channel
+ch	node.h	/^		 channel* ch;$/;"	m	class:node
+chArray	MS-FPFC.cpp	/^channel *chArray = NULL;$/;"	v
+chFreq	channel.h	/^		double chFreq;$/;"	m	class:channel
+chId	channel.h	/^		int chId;$/;"	m	class:channel
+chMutex	channel.h	/^		pthread_mutex_t  chMutex;$/;"	m	class:channel
+chReq	channel.h	/^		int chReq;$/;"	m	class:channel
+channel	channel.cpp	/^channel::channel() {$/;"	f	class:channel
+channel	channel.cpp	/^channel::channel(int n,double f) {$/;"	f	class:channel
+channel	channel.h	/^class channel {$/;"	c
+channelList	node.h	/^		queue* channelList;$/;"	m	class:secondary
+compTx	node.h	/^ int compTx;$/;"	m	class:secondary
+count	LL_Queue.cpp	/^int queue:: count(){$/;"	f	class:queue
+count	channel.h	/^		int count;$/;"	m	class:channel
+counter	MS-FPFC.cpp	/^int counter[(NUM_PRIMARY_USERS + NUM_SEC_USERS)];$/;"	v
+create	channel.cpp	/^struct dlnode* channel::create(int data)$/;"	f	class:channel
+data	channel.h	/^	int data;$/;"	m	struct:dlnode
+data	queue.h	/^	int data;$/;"	m	struct:Qnode
+decision	node.cpp	/^bool decision(int *data)$/;"	f
+dequeue	LL_Queue.cpp	/^int queue::dequeue()$/;"	f	class:queue
+dlnode	channel.h	/^struct dlnode$/;"	s
+end	channel.h	/^		struct dlnode *start,*end;$/;"	m	class:channel	typeref:struct:channel::
+enqueue	LL_Queue.cpp	/^void queue::enqueue(int s)$/;"	f	class:queue
+exitflag	MS-FPFC.cpp	/^int exitflag = 0;$/;"	v
+extract	script.py	/^	extract = open(pattern+"hty.txt","w");$/;"	v
+fi	node.cpp	/^double fi(double lambda)$/;"	f
+flag	node.cpp	/^int flag=1;$/;"	v
+fo	script.py	/^fo = open("log1", "r")$/;"	v
+freePeriod	channel.h	/^		double freePeriod;$/;"	m	class:channel
+front	queue.h	/^		struct Qnode *front;		\/\/front of list is rear of queue$/;"	m	class:queue	typeref:struct:queue::Qnode
+frontOfQ	LL_Queue.cpp	/^int queue::frontOfQ()$/;"	f	class:queue
+ft	node.cpp	/^double ft( double mu) $/;"	f
+future	channel.h	/^		int future[10];$/;"	m	class:channel
+getBusyFlag	channel.cpp	/^int channel::getBusyFlag(){$/;"	f	class:channel
+getBusyFlag	node.cpp	/^int node::getBusyFlag() {$/;"	f	class:node
+getBusyPeriod	channel.cpp	/^double channel::getBusyPeriod() {$/;"	f	class:channel
+getChFreq	channel.cpp	/^double channel::getChFreq(){$/;"	f	class:channel
+getChId	channel.cpp	/^int channel::getChId() {$/;"	f	class:channel
+getChReq	channel.cpp	/^int channel::getChReq() {$/;"	f	class:channel
+getChannel	node.cpp	/^channel* node::getChannel() {$/;"	f	class:node
+getChannelList	node.cpp	/^queue* secondary::getChannelList()$/;"	f	class:secondary
+getFirst	LL_Queue.cpp	/^struct Qnode* queue::getFirst() {$/;"	f	class:queue
+getFreePeriod	channel.cpp	/^double channel::getFreePeriod() {$/;"	f	class:channel
+getId	node.cpp	/^int node::getId() {$/;"	f	class:node
+getNumOfBackoffs	node.cpp	/^int secondary::getNumOfBackoffs() {$/;"	f	class:secondary
+getNumOfFailures	node.cpp	/^int secondary::getNumOfFailures() {$/;"	f	class:secondary
+getNumOfInterference	node.cpp	/^int secondary::getNumOfInterference() {$/;"	f	class:secondary
+getOptDist	channel.cpp	/^float channel::getOptDist(){\/\/---------------$/;"	f	class:channel
+getPTxPwr	channel.cpp	/^float channel::getPTxPwr(){\/\/----------------------$/;"	f	class:channel
+getTxtime	node.cpp	/^double node::getTxtime() {$/;"	f	class:node
+getValue	LL_Queue.cpp	/^int queue::getValue(struct Qnode* r) {$/;"	f	class:queue
+get_history	channel.cpp	/^struct dlnode* channel::get_history()$/;"	f	class:channel
+get_pred	channel.cpp	/^int* channel::get_pred()$/;"	f	class:channel
+getcompletedTx	node.cpp	/^int secondary::getcompletedTx() {$/;"	f	class:secondary
+incNumOfBackoffs	node.cpp	/^void secondary::incNumOfBackoffs() {$/;"	f	class:secondary
+incNumOfFailures	node.cpp	/^void secondary::incNumOfFailures() {$/;"	f	class:secondary
+incNumOfInterference	node.cpp	/^void secondary::incNumOfInterference() {$/;"	f	class:secondary
+insert1	channel.cpp	/^void channel::insert1(int data)$/;"	f	class:channel
+lockChannel	channel.cpp	/^int channel::lockChannel(){$/;"	f	class:channel
+main	MS-FPFC.cpp	/^int main(){$/;"	f
+masterThread	node.cpp	/^void* secondary::masterThread(void* data) {$/;"	f	class:secondary
+matlab_time	MS-FPFC.cpp	/^double matlab_time = 0.0;$/;"	v
+next	channel.h	/^	struct dlnode *next;$/;"	m	struct:dlnode	typeref:struct:dlnode::dlnode
+next	queue.h	/^	struct Qnode *next;$/;"	m	struct:Qnode	typeref:struct:Qnode::Qnode
+node	node.h	/^class node {$/;"	c
+nodeId	node.h	/^		 int nodeId;$/;"	m	class:node
+numOfBackoffs	node.h	/^		int numOfBackoffs;$/;"	m	class:secondary
+numOfFailures	channel.h	/^		int numOfFailures;$/;"	m	class:channel
+numOfFailures	node.h	/^		int numOfFailures;\/\/--------------------------------$/;"	m	class:secondary
+numOfInterference	node.h	/^		int numOfInterference;\/\/--------------------------------$/;"	m	class:secondary
+numberItems	queue.h	/^		int numberItems;$/;"	m	class:queue
+optDist	channel.h	/^		float optDist;\/\/-------------$/;"	m	class:channel
+pTxPwr	channel.h	/^		float pTxPwr;\/\/-------------$/;"	m	class:channel
+pattern	channel.h	/^		int pattern[26];$/;"	m	class:channel
+patterncount	channel.h	/^		int patterncount;$/;"	m	class:channel
+patterns	script.py	/^patterns= ['8- ','1- ','3- ','2- ','5- ','7- ','4- ','6- ','9- ','0- ']$/;"	v
+predict	node.cpp	/^bool predict(int s,struct dlnode* start,int pattern[26]){$/;"	f
+prev	channel.h	/^	struct dlnode *prev;$/;"	m	struct:dlnode	typeref:struct:dlnode::dlnode
+primary	node.cpp	/^primary::primary() {$/;"	f	class:primary
+primary	node.cpp	/^primary::primary(int id, channel*c) {$/;"	f	class:primary
+primary	node.h	/^class primary : public node {$/;"	c
+primaryUserArr	node.cpp	/^primary primaryUserArr[NUM_PRIMARY_USERS];$/;"	v
+queue	queue.h	/^		queue() 			\/\/ constructor$/;"	f	class:queue
+queue	queue.h	/^class queue$/;"	c
+rear	queue.h	/^		struct Qnode *rear;		\/\/rear of list is the front of queue$/;"	m	class:queue	typeref:struct:queue::Qnode
+rearOfQ	LL_Queue.cpp	/^int queue::rearOfQ()$/;"	f	class:queue
+removeNode	LL_Queue.cpp	/^void queue::removeNode(int value) {$/;"	f	class:queue
+removee	channel.cpp	/^void channel::removee()$/;"	f	class:channel
+scanTime	MS-FPFC.cpp	/^double scanTime=0.0;$/;"	v
+secMaster	node.cpp	/^secondary secMaster;$/;"	v
+secondUserArr	node.cpp	/^secondary secondUserArr[NUM_SEC_USERS];$/;"	v
+secondary	node.cpp	/^secondary::secondary() {$/;"	f	class:secondary
+secondary	node.cpp	/^secondary::secondary(int id, queue* c) {$/;"	f	class:secondary
+secondary	node.h	/^class secondary : public node {$/;"	c
+secondaryChList	MS-FPFC.cpp	/^queue secondaryChList;$/;"	v
+setBusyFlag	channel.cpp	/^void channel::setBusyFlag(int b){$/;"	f	class:channel
+setBusyFlag	node.cpp	/^void node::setBusyFlag(int f) {$/;"	f	class:node
+setBusyPeriod	channel.cpp	/^void channel::setBusyPeriod(double p) {$/;"	f	class:channel
+setChFreq	channel.cpp	/^void channel:: setChFreq(double f) {$/;"	f	class:channel
+setChId	channel.cpp	/^void channel:: setChId(int i) {$/;"	f	class:channel
+setChReq	channel.cpp	/^void channel::setChReq(int r) {$/;"	f	class:channel
+setChannel	node.cpp	/^void node::setChannel(channel* c) {$/;"	f	class:node
+setChannelList	node.cpp	/^void secondary::setChannelList(queue* q)$/;"	f	class:secondary
+setFreePeriod	channel.cpp	/^void channel::setFreePeriod(double p) {$/;"	f	class:channel
+setId	node.cpp	/^void node::setId(int id) {$/;"	f	class:node
+setOptDist	channel.cpp	/^void channel::setOptDist(float dist){\/\/-----------$/;"	f	class:channel
+setOpttxpwr	node.cpp	/^void node::setOpttxpwr(float pwr){\/\/-------------------------$/;"	f	class:node
+setPTxPwr	channel.cpp	/^void channel::setPTxPwr(float pwr){\/\/----------------------$/;"	f	class:channel
+setRxdist	node.cpp	/^void node::setRxdist() {\/\/--------------------------------------------------$/;"	f	class:node
+setTxpwr	node.cpp	/^void node::setTxpwr(float p) {\/\/---------------------------------$/;"	f	class:node
+setTxtime	node.cpp	/^void node::setTxtime(double s) {$/;"	f	class:node
+set_history	channel.cpp	/^void channel::set_history(int data)$/;"	f	class:channel
+set_pred	channel.cpp	/^void channel::set_pred(int data[10]){$/;"	f	class:channel
+setcompletedTx	node.cpp	/^void secondary::setcompletedTx() {$/;"	f	class:secondary
+start	channel.h	/^		struct dlnode *start,*end;$/;"	m	class:channel	typeref:struct:channel::dlnode
+sysstart	MS-FPFC.cpp	/^struct timeval sysstart;$/;"	v	typeref:struct:timeval
+thread_maker	node.cpp	/^void* primary::thread_maker(void* data) {$/;"	f	class:primary
+thread_maker	node.cpp	/^void* secondary::thread_maker(void* data) {$/;"	f	class:secondary
+traverse	channel.cpp	/^void channel::traverse()$/;"	f	class:channel
+traverse_pattern	channel.cpp	/^void channel::traverse_pattern(int count)$/;"	f	class:channel
+txData	node.cpp	/^void primary::txData( ) {$/;"	f	class:primary
+txData	node.cpp	/^void secondary::txData( ) {$/;"	f	class:secondary
+unlockChannel	channel.cpp	/^void channel::unlockChannel(){$/;"	f	class:channel
+userid	channel.h	/^		int userid;$/;"	m	class:channel
+x	node.cpp	/^void x()$/;"	f
+~channel	channel.cpp	/^channel::~channel() {$/;"	f	class:channel
+~primary	node.cpp	/^primary::~primary() {$/;"	f	class:primary
+~queue	queue.h	/^      		~queue(){front = rear = NULL;}	\/\/ destructor$/;"	f	class:queue
+~secondary	node.cpp	/^secondary::~secondary() {$/;"	f	class:secondary

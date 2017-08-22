@@ -1,0 +1,24 @@
+				startTime = 1447357090
+Scan Time  0.001505
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 20
+simtime = 2006
+Busy time  774.141200  	Free time  0.000000  
+Busy time  1705.044680  	Free time  0.000000  
+Busy time  1712.525640  	Free time  0.000000  
+Busy time  1711.497000  	Free time  0.000000  
+Busy time  1735.231800  	Free time  0.000000  
+Busy time  1726.407040  	Free time  0.000000  
+Busy time  1697.130800  	Free time  0.000000  
+Busy time  1726.275400  	Free time  0.000000  
+Busy time  1730.961400  	Free time  0.000000  
+Busy time  1694.373880  	Free time  0.000000  
+Avg busyTime of Primary  = 794.805284
+Avg busyTime of secondary  = 413.276800
+ Avg freetime of secondary  = 413.249474
+Channel Utilisation  80.825528 
+ Avg Number of Backoff's = 95
+ Runtime of Secondary = 1461
+ 20956.462495	 0.231806Fri Nov 13 01:41:36 2015
+

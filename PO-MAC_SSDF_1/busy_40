@@ -1,0 +1,54 @@
+Scan Time  0.010506
+Num of Channels = 40
+Num of PU = 40
+Num of SU = 20
+simtime = 917
+Busy time  348.585200  	Free time  0.000000  
+Busy time  366.948200  	Free time  0.000000  
+Busy time  365.736000  	Free time  0.000000  
+Busy time  355.068700  	Free time  0.000000  
+Busy time  347.449200  	Free time  0.000000  
+Busy time  326.114600  	Free time  0.000000  
+Busy time  336.820000  	Free time  0.000000  
+Busy time  359.640400  	Free time  0.000000  
+Busy time  335.258000  	Free time  0.000000  
+Busy time  341.713800  	Free time  0.000000  
+Busy time  341.571800  	Free time  0.000000  
+Busy time  334.208600  	Free time  0.000000  
+Busy time  338.305800  	Free time  0.000000  
+Busy time  341.353600  	Free time  0.000000  
+Busy time  332.210200  	Free time  0.000000  
+Busy time  344.969400  	Free time  0.000000  
+Busy time  354.254800  	Free time  0.000000  
+Busy time  356.592600  	Free time  0.000000  
+Busy time  354.763920  	Free time  0.000000  
+Busy time  360.350400  	Free time  0.000000  
+Busy time  320.019000  	Free time  0.000000  
+Busy time  356.592600  	Free time  0.000000  
+Busy time  356.592600  	Free time  0.000000  
+Busy time  332.210200  	Free time  0.000000  
+Busy time  350.497000  	Free time  0.000000  
+Busy time  338.305800  	Free time  0.000000  
+Busy time  323.066800  	Free time  0.000000  
+Busy time  323.066800  	Free time  0.000000  
+Busy time  332.210200  	Free time  0.000000  
+Busy time  338.305800  	Free time  0.000000  
+Busy time  344.401400  	Free time  0.000000  
+Busy time  341.963160  	Free time  0.000000  
+Busy time  330.686300  	Free time  0.000000  
+Busy time  356.897380  	Free time  0.000000  
+Busy time  350.497000  	Free time  0.000000  
+Busy time  348.668320  	Free time  0.000000  
+Busy time  342.877500  	Free time  0.000000  
+Busy time  344.401400  	Free time  0.000000  
+Busy time  354.763920  	Free time  0.000000  
+Busy time  350.497000  	Free time  0.000000  
+Avg busyTime of Primary  = 343.868035
+Avg busyTime of secondary  = 1.185700
+ Avg freetime of secondary  = 7.567227
+Channel Utilisation  38.273878 
+ Avg Number of Backoff's = 0
+ Runtime of Secondary = 847
+ Number of Failures = 2
+Sat Mar 19 22:35:55 2016
+

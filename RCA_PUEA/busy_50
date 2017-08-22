@@ -1,0 +1,65 @@
+				startTime = 1458480054
+Scan Time  0.002075
+Num of Channels = 50
+Num of PU = 50
+Num of SU = 20
+simtime = 807
+Busy time  384.327580  	Free time  0.000000  
+Busy time  419.294260  	Free time  0.000000  
+Busy time  484.735460  	Free time  0.000000  
+Busy time  481.012300  	Free time  0.000000  
+Busy time  657.424820  	Free time  0.000000  
+Busy time  653.327560  	Free time  0.000000  
+Busy time  648.561920  	Free time  0.000000  
+Busy time  643.148620  	Free time  0.000000  
+Busy time  648.506500  	Free time  0.000000  
+Busy time  620.407820  	Free time  0.000000  
+Busy time  608.607980  	Free time  0.000000  
+Busy time  609.401100  	Free time  0.000000  
+Busy time  610.599400  	Free time  0.000000  
+Busy time  586.466340  	Free time  0.000000  
+Busy time  547.790420  	Free time  0.000000  
+Busy time  554.900740  	Free time  0.000000  
+Busy time  523.920540  	Free time  0.000000  
+Busy time  507.005220  	Free time  0.000000  
+Busy time  463.449300  	Free time  0.000000  
+Busy time  421.247640  	Free time  0.000000  
+Busy time  412.114640  	Free time  0.000000  
+Busy time  418.684660  	Free time  0.000000  
+Busy time  368.444440  	Free time  0.000000  
+Busy time  381.806260  	Free time  0.000000  
+Busy time  390.738400  	Free time  0.000000  
+Busy time  379.302180  	Free time  0.000000  
+Busy time  360.322700  	Free time  0.000000  
+Busy time  391.424120  	Free time  0.000000  
+Busy time  365.895320  	Free time  0.000000  
+Busy time  361.469080  	Free time  0.000000  
+Busy time  370.917260  	Free time  0.000000  
+Busy time  342.877500  	Free time  0.000000  
+Busy time  372.136380  	Free time  0.000000  
+Busy time  339.220140  	Free time  0.000000  
+Busy time  364.212100  	Free time  0.000000  
+Busy time  377.012860  	Free time  0.000000  
+Busy time  370.002920  	Free time  0.000000  
+Busy time  380.975000  	Free time  0.000000  
+Busy time  380.975000  	Free time  0.000000  
+Busy time  352.935240  	Free time  0.000000  
+Busy time  384.632360  	Free time  0.000000  
+Busy time  372.441160  	Free time  0.000000  
+Busy time  367.564680  	Free time  0.000000  
+Busy time  369.088580  	Free time  0.000000  
+Busy time  357.811720  	Free time  0.000000  
+Busy time  356.897380  	Free time  0.000000  
+Busy time  364.516880  	Free time  0.000000  
+Busy time  378.536760  	Free time  0.000000  
+Busy time  337.696240  	Free time  0.000000  
+Busy time  362.992980  	Free time  0.000000  
+Avg busyTime of Primary  = 362.426089
+Avg busyTime of secondary  = 204.323800
+ Avg freetime of secondary  = 198.267596
+Channel Utilisation  55.038011 
+ Avg Number of Backoff's = 63
+ Runtime of Secondary = 549
+ Number of Failures = 553
+ 6904.521925	 0.311026Sun Mar 20 19:04:21 2016
+

@@ -1,0 +1,184 @@
+				startTime = 1444837319Scan Time  0.000458
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 10
+simtime = 1000
+Busy time  653.334380  	Free time  0.000000  
+Busy time  675.888100  	Free time  0.000000  
+Busy time  655.862660  	Free time  0.000000  
+Busy time  657.313820  	Free time  0.000000  
+Busy time  663.513280  	Free time  0.000000  
+Busy time  669.806320  	Free time  0.000000  
+Busy time  642.116360  	Free time  0.000000  
+Busy time  655.190780  	Free time  0.000000  
+Busy time  659.883700  	Free time  0.000000  
+Busy time  658.345920  	Free time  0.000000  
+Avg busyTime of Primary  = 447.843732
+Avg busyTime of secondary  = 211.281800
+ Avg freetime of secondary  = 211.603118
+Channel Utilisation  65.912583 
+ Avg Number of Backoff's = 58
+ Runtime of Secondary = 788Scan Time  0.014899
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 20
+simtime = 2000
+Busy time  1374.946440  	Free time  0.000000  
+Busy time  1386.490040  	Free time  0.000000  
+Busy time  1360.334360  	Free time  0.000000  
+Busy time  1374.226040  	Free time  0.000000  
+Busy time  1348.970800  	Free time  0.000000  
+Busy time  1360.264980  	Free time  0.000000  
+Busy time  1338.126920  	Free time  0.000000  
+Busy time  1351.693120  	Free time  0.000000  
+Busy time  1378.420300  	Free time  0.000000  
+Busy time  1367.209180  	Free time  0.000000  
+Avg busyTime of Primary  = 903.093618
+Avg busyTime of secondary  = 230.487300
+ Avg freetime of secondary  = 227.178874
+Channel Utilisation  68.203919 
+ Avg Number of Backoff's = 72
+ Runtime of Secondary = 1277Scan Time  0.008524
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 30
+simtime = 3000
+Busy time  2042.359540  	Free time  0.000000  
+Busy time  2051.281360  	Free time  0.000000  
+Busy time  2016.200420  	Free time  0.000000  
+Busy time  2045.203020  	Free time  0.000000  
+Busy time  2040.624320  	Free time  0.000000  
+Busy time  2039.654560  	Free time  0.000000  
+Busy time  2019.972040  	Free time  0.000000  
+Busy time  2040.049440  	Free time  0.000000  
+Busy time  2062.606720  	Free time  0.000000  
+Busy time  2046.373700  	Free time  0.000000  
+Avg busyTime of Primary  = 1374.679712
+Avg busyTime of secondary  = 221.917600
+ Avg freetime of secondary  = 219.155530
+Channel Utilisation  68.014610 
+ Avg Number of Backoff's = 77
+ Runtime of Secondary = 1785Scan Time  0.000499
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 40
+simtime = 4000
+Busy time  2715.837120  	Free time  0.000000  
+Busy time  2698.675920  	Free time  0.000000  
+Busy time  2665.551840  	Free time  0.000000  
+Busy time  2707.833160  	Free time  0.000000  
+Busy time  2702.949680  	Free time  0.000000  
+Busy time  2695.004600  	Free time  0.000000  
+Busy time  2665.558780  	Free time  0.000000  
+Busy time  2697.713020  	Free time  0.000000  
+Busy time  2716.588740  	Free time  0.000000  
+Busy time  2709.963180  	Free time  0.000000  
+Avg busyTime of Primary  = 1832.276404
+Avg busyTime of secondary  = 216.322800
+ Avg freetime of secondary  = 213.916674
+Channel Utilisation  67.439199 
+ Avg Number of Backoff's = 76
+ Runtime of Secondary = 2291Scan Time  0.000696
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 50
+simtime = 5000
+Busy time  3347.369260  	Free time  0.000000  
+Busy time  3330.938880  	Free time  0.000000  
+Busy time  3318.941560  	Free time  0.000000  
+Busy time  3365.049960  	Free time  0.000000  
+Busy time  3330.613180  	Free time  0.000000  
+Busy time  3321.961620  	Free time  0.000000  
+Busy time  3326.831240  	Free time  0.000000  
+Busy time  3333.910400  	Free time  0.000000  
+Busy time  3375.301700  	Free time  0.000000  
+Busy time  3333.245500  	Free time  0.000000  
+Avg busyTime of Primary  = 2293.012330
+Avg busyTime of secondary  = 209.080800
+ Avg freetime of secondary  = 205.824861
+Channel Utilisation  66.768336 
+ Avg Number of Backoff's = 75
+ Runtime of Secondary = 2799
+sec thread  0 joining
+sec thread  1 joining
+sec thread  2 joining
+sec thread  3 joining
+sec thread  4 joining
+sec thread  5 joining
+sec thread  6 joining
+sec thread  7 joining
+sec thread  8 joining
+sec thread  9 joining
+sec thread  10 joining
+sec thread  11 joining
+sec thread  12 joining
+sec thread  13 joining
+sec thread  14 joining
+sec thread  15 joining
+sec thread  16 joining
+sec thread  17 joining
+sec thread  18 joining
+sec thread  19 joining
+sec thread  20 joining
+sec thread  21 joining
+sec thread  22 joining
+sec thread  23 joining
+sec thread  24 joining
+sec thread  25 joining
+sec thread  26 joining
+sec thread  27 joining
+sec thread  28 joining
+sec thread  29 joining
+sec thread  30 joining
+sec thread  31 joining
+sec thread  32 joining
+sec thread  33 joining
+sec thread  34 joining
+sec thread  35 joining
+sec thread  36 joining
+sec thread  37 joining
+sec thread  38 joining
+sec thread  39 joining
+sec thread  40 joining
+sec thread  41 joining
+sec thread  42 joining
+sec thread  43 joining
+sec thread  44 joining
+sec thread  45 joining
+sec thread  46 joining
+sec thread  47 joining
+sec thread  48 joining
+sec thread  49 joining
+prim thread  0 joining
+prim thread  1 joining
+prim thread  2 joining
+prim thread  3 joining
+prim thread  4 joining
+prim thread  5 joining
+prim thread  6 joining
+prim thread  7 joining
+prim thread  8 joining
+prim thread  9 joining
+Scan Time  0.007968
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 50
+simtime = 6009
+Busy time  3972.057680  	Free time  0.000000  
+Busy time  3960.448420  	Free time  0.000000  
+Busy time  3939.969180  	Free time  0.000000  
+Busy time  4013.237600  	Free time  0.000000  
+Busy time  4009.497060  	Free time  0.000000  
+Busy time  3945.288980  	Free time  0.000000  
+Busy time  3968.092120  	Free time  0.000000  
+Busy time  3976.407720  	Free time  0.000000  
+Busy time  3991.653740  	Free time  0.000000  
+Busy time  3972.681140  	Free time  0.000000  
+Avg busyTime of Primary  = 2753.321564
+Avg busyTime of secondary  = 244.322360
+ Avg freetime of secondary  = 243.589425
+Channel Utilisation  66.248977 
+ Avg Number of Backoff's = 89
+ Runtime of Secondary = 3772
+Wed Oct 14 22:52:08 2015
+

@@ -1,0 +1,45 @@
+				startTime = 1458493830
+Scan Time  0.001676
+Num of Channels = 30
+Num of PU = 30
+Num of SU = 20
+simtime = 806
+Busy time  316.971200  	Free time  0.000000  
+Busy time  412.177000  	Free time  0.000000  
+Busy time  425.261800  	Free time  0.000000  
+Busy time  440.209860  	Free time  0.000000  
+Busy time  637.298980  	Free time  0.000000  
+Busy time  659.845800  	Free time  0.000000  
+Busy time  634.909220  	Free time  0.000000  
+Busy time  612.407400  	Free time  0.000000  
+Busy time  626.496580  	Free time  0.000000  
+Busy time  632.003400  	Free time  0.000000  
+Busy time  624.477400  	Free time  0.000000  
+Busy time  580.918020  	Free time  0.000000  
+Busy time  553.051400  	Free time  0.000000  
+Busy time  555.770200  	Free time  0.000000  
+Busy time  525.108580  	Free time  0.000000  
+Busy time  502.250000  	Free time  0.000000  
+Busy time  457.364200  	Free time  0.000000  
+Busy time  455.674000  	Free time  0.000000  
+Busy time  372.763400  	Free time  0.000000  
+Busy time  384.518200  	Free time  0.000000  
+Busy time  365.351620  	Free time  0.000000  
+Busy time  324.327520  	Free time  0.000000  
+Busy time  337.145580  	Free time  0.000000  
+Busy time  317.986000  	Free time  0.000000  
+Busy time  314.775400  	Free time  0.000000  
+Busy time  325.200260  	Free time  0.000000  
+Busy time  336.064980  	Free time  0.000000  
+Busy time  298.684400  	Free time  0.000000  
+Busy time  301.053380  	Free time  0.000000  
+Busy time  312.153600  	Free time  0.000000  
+Avg busyTime of Primary  = 312.612846
+Avg busyTime of secondary  = 213.191700
+ Avg freetime of secondary  = 211.794134
+Channel Utilisation  56.419552 
+ Avg Number of Backoff's = 51
+ Runtime of Secondary = 554
+ Number of Failures = 2232
+ 6825.164324	 0.242739Sun Mar 20 22:53:56 2016
+

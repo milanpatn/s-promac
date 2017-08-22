@@ -1,0 +1,25 @@
+
+----------15 BACKING OFF FROM CHANNEL 5 ----------
+Scan Time  19234.305326
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 20
+simtime = 27846
+Busy time  8215.925500  	Free time  0.000000  
+Busy time  8220.223600  	Free time  0.000000  
+Busy time  8209.622100  	Free time  0.000000  
+Busy time  8210.363200  	Free time  0.000000  
+Busy time  8209.587420  	Free time  0.000000  
+Busy time  8213.133900  	Free time  0.000000  
+Busy time  8213.566880  	Free time  0.000000  
+Busy time  8206.955160  	Free time  0.000000  
+Busy time  8211.135580  	Free time  0.000000  
+Busy time  8216.742900  	Free time  0.000000  
+Avg busyTime of Primary  = 4687.760224
+Avg busyTime of secondary  = 1762.482700
+ Avg freetime of secondary  = 1727.019864
+Channel Utilisation  95.367125 
+ Avg Number of Backoff's = 784
+ Runtime of Secondary = 25326
+Tue Oct  6 19:21:10 2015
+

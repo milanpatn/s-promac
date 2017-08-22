@@ -1,0 +1,1192 @@
+[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+Infeasible QP.  Check constraints.
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+Infeasible QP.  Check constraints.
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 360
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: waitbar is no longer supported when MATLAB is started with the -nodisplay or -noFigureWindows option or there is no display. For more information, see "Changes
+to -nodisplay and -noFigureWindows Startup Options" in the MATLAB Release Notes. To view the release note in your system browser, run
+web('www.mathworks.com/help/matlab/release-notes.html#br5ktrh-3', '-browser')] 
+[> In uitools/private/warnfiguredialog at 21
+  In waitbar at 38
+  In scmpc at 582
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>
+Scan Time  680.257561
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 20
+simtime = 1000
+Busy time  303.734280  	Free time  0.000000  
+Busy time  306.273000  	Free time  0.000000  
+Busy time  294.493900  	Free time  0.000000  
+Busy time  298.899360  	Free time  0.000000  
+Busy time  292.744880  	Free time  0.000000  
+Busy time  299.837960  	Free time  0.000000  
+Busy time  302.584440  	Free time  0.000000  
+Busy time  295.699180  	Free time  0.000000  
+Busy time  303.457220  	Free time  0.000000  
+Busy time  298.366020  	Free time  0.000000  
+Avg busyTime of Primary  = 149.586024
+Avg busyTime of secondary  = 75.011500
+ Avg freetime of secondary  = 90.956695
+Channel Utilisation  93.703240 
+ Avg Number of Backoff's = 23
+ Runtime of Secondary = 338599
+ Number of Failures = 1107944
+Sun Mar 13 20:46:48 2016
+
+

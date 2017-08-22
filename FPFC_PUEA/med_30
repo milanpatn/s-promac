@@ -1,0 +1,834 @@
+[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+Step = 15
+Simulation terminating prematurely!
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                                                                         < M A T L A B (R) >
+                                                               Copyright 1984-2014 The MathWorks, Inc.
+                                                                 R2014a (8.3.0.532) 64-bit (glnxa64)
+                                                                          February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+Step = 21
+Simulation terminating prematurely!
+[?1l>maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+maxsec7
+Scan Time  440.374814
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 7
+simtime = 1010
+Busy time  413.039500  	Free time  0.000000  
+Busy time  425.272280  	Free time  0.000000  
+Busy time  401.322780  	Free time  0.000000  
+Busy time  411.934620  	Free time  0.000000  
+Busy time  404.329000  	Free time  0.000000  
+Busy time  409.655720  	Free time  0.000000  
+Busy time  455.071480  	Free time  0.000000  
+Busy time  411.605640  	Free time  0.000000  
+Busy time  381.269580  	Free time  0.000000  
+Busy time  398.126020  	Free time  0.000000  
+Avg busyTime of Primary  = 259.946862
+Avg busyTime of secondary  = 216.022571
+ Avg freetime of secondary  = 219.958000
+Channel Utilisation  72.181264 
+ Avg Number of Backoff's = 62
+ Runtime of Secondary = 746
+Mon Mar 21 21:52:22 2016
+
