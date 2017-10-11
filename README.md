@@ -6,11 +6,14 @@ Description of various folders.
 
 CR_Src - Root folder
 
-  FPFC_PUEA    	- Distributed ProMAC with PUEA Attack
-  FPFC_SSDF_1   - Master Slave ProMAC with SSDF Attack causing SU backoff
-  FPFC_SSDF_2   - Master Slave ProMAC with SSDF Attack causing PU interference
-  RCA     	- Reactive Channel Allocation (RCA)
-  PO-MAC    	- PO-MAC (By default PO-MAC is distributive) 
+  S-PROMAC_PUEA    - Distributed S-ProMAC with PUEA Attack
+  S-PROMAC_SSDF_1  - Master Slave S-ProMAC with SSDF Attack causing SU backoff
+  S-PROMAC_SSDF_2  - Master Slave S-ProMAC with SSDF Attack causing PU interference
+  FPFC_PUEA    	   - Distributed ProMAC with PUEA Attack
+  FPFC_SSDF_1      - Master Slave ProMAC with SSDF Attack causing SU backoff
+  FPFC_SSDF_2      - Master Slave ProMAC with SSDF Attack causing PU interference
+  RCA     	   - Reactive Channel Allocation (RCA)
+  PO-MAC    	   - PO-MAC (By default PO-MAC is distributive) 
  
 Execution.
 ---------- 
@@ -34,7 +37,7 @@ rm: cannot remove ‘*hty*’: No such file or directory
 milan@milan-Inspiron-N5110:~/Dropbox/CR_src/FPFC_PUEA$ g++ -g *.cpp *.h -lpthread
 node.cpp: In function ‘void x()’:
 node.cpp:31:14: warning: deprecated conversion from string constant to ‘char*’ [-Wwrite-strings]
-   new_argv[0]="./sh.sh";sathya@sathya-Lenovo-G580:~/Dropbox/CR_src/D-RCA$ g++ -g *.cpp *.h -lpthread
+   
 
 3. Execution
 
@@ -67,10 +70,10 @@ Busy time  39.455160  	Free time  0.000000
 Busy time  38.069800  	Free time  0.000000  
 Avg busyTime of Primary  = 33.022913
 Avg busyTime of secondary  = 19.702500
- Avg freetime of secondary  = 21.823508
+Avg freetime of secondary  = 21.823508
 Channel Utilisation  57.940152 
- Avg Number of Backoff's = 6
- Runtime of Secondary = 58
- Number of Failures = 5016
- 779.949784	 0.304530Tue Sep 27 22:15:46 2016
+Avg Number of Backoff's = 6
+Runtime of Secondary = 58
+Number of Failures = 5016
+779.949784	 0.304530Tue Sep 27 22:15:46 2017
 

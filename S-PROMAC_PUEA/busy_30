@@ -1,0 +1,670 @@
+[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of
+its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or
+any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or
+any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2JInfeasible QP.  Check constraints.
+[Warning: Objects of 'tf' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ss' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'onCleanup' class exist.  Cannot clear this class or any of
+its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'sym' class exist.  Cannot clear this class or any of its
+superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.tfdata' class exist.  Cannot clear this class or
+any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[Warning: Objects of 'ltipack.ssdata' class exist.  Cannot clear this class or
+any of its superclasses.] 
+[> In scmpc at 637
+  In histpoly1 at 91
+  In run at 63] 
+[?1l>[?1h=
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[H[2J[?1l>maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+maxsec6
+Scan Time  406.511567
+Num of Channels = 10
+Num of PU = 10
+Num of SU = 6
+simtime = 1010
+Busy time  477.836420  	Free time  0.000000  
+Busy time  458.988520  	Free time  0.000000  
+Busy time  458.157280  	Free time  0.000000  
+Busy time  470.642920  	Free time  0.000000  
+Busy time  456.255900  	Free time  0.000000  
+Busy time  445.370360  	Free time  0.000000  
+Busy time  446.374760  	Free time  0.000000  
+Busy time  432.735820  	Free time  0.000000  
+Busy time  458.275060  	Free time  0.000000  
+Busy time  411.602080  	Free time  0.000000  
+Avg busyTime of Primary  = 317.093112
+Avg busyTime of secondary  = 224.218000
+ Avg freetime of secondary  = 230.714685
+Channel Utilisation  74.835554 
+ Avg Number of Backoff's = 90
+ Runtime of Secondary = 735
+Mon Mar 21 20:07:25 2016
+
